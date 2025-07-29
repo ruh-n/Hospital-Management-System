@@ -12,11 +12,6 @@ This repository contains the source code for a Hospital Management System (HMS) 
     * [Installation](#installation)
     * [Database Setup](#database-setup)
 * [Usage](#usage)
-* [Project Structure](#project-structure)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-
 ## Introduction
 
 The Hospital Management System is a comprehensive solution developed to manage the day-to-day operations of a hospital. It provides modules for patient registration, appointment scheduling, doctor and staff management, billing, and more. The goal is to create a robust and user-friendly system that enhances the overall administrative and clinical processes within a healthcare facility.
@@ -106,4 +101,4 @@ To run the application:
 
 2.  Open your web browser and navigate to `http://localhost:PORT` (replace `PORT` with the actual port your application is running on, typically `8080` for Spring Boot).
 
-## Project Structure
+
